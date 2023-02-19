@@ -1,0 +1,12 @@
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\bin\Debug\net6.0\CarClassLibrary.deps.json
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\bin\Debug\net6.0\CarClassLibrary.dll
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\bin\Debug\net6.0\CarClassLibrary.pdb
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.csproj.AssemblyReference.cache
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.AssemblyInfoInputs.cache
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.AssemblyInfo.cs
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.dll
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\refint\CarClassLibrary.dll
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\CarClassLibrary.pdb
+C:\dean\School\CST-250\Week 1\Activity1\CarClassLibrary\CarClassLibrary\obj\Debug\net6.0\ref\CarClassLibrary.dll
